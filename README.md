@@ -110,6 +110,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |-----|:-----:|:-----:|:-----:|:-----:|
+|[Multi-modal Relation Distillation for Unified 3D Representation Learning](https://arxiv.org/abs/2407.14007) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.14007) | nan | nan | 2024 |
 |[CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://ieeexplore.ieee.org/document/9878878) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9878878) | nan | nan | 2022 |
 |[Grounding Pretrained Features in 3D Representations](https://openreview.net/forum?id=Lx7trKCpn6a) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=Lx7trKCpn6a) | nan | nan | 2023 |
 |[MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts](http://arxiv.org/abs/2305.10799) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2305.10799) | nan | nan | 2023 |
